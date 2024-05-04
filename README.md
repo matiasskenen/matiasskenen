@@ -4,9 +4,9 @@
 
 ## Soy estudiante en Programacion en la UTN Avellaneda
 
-👨‍💻 Actualmente estoy trabajando en proyectos de GET y POST en php
-📚 Aprendiendo todo sobre tecnologías de Frontend y Backend 😅
-💪🏼 Metas futuras: Aprender conversacion fluida en ingles
+-👨‍💻 Actualmente estoy trabajando en proyectos de GET y POST en php
+-📚 Aprendiendo todo sobre tecnologías de Frontend y Backend 😅
+-💪🏼 Metas futuras: Aprender conversacion fluida en ingles
 
 ---
 
