@@ -46,7 +46,14 @@
 
 ## 📝 Recent Projects
 
+
+
+### Descubre un Nuevo Tú: Transformación a través de Hábitos Saludables y Desarrollo Personal
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3ZAPdiLq2Lpbdsly48MiOA)
+
+Explora cómo adoptar hábitos saludables y mejorar tu desarrollo personal con nuestro canal. Te ofrecemos consejos prácticos, inspiración y guías para transformar tu vida de manera positiva. Únete a nosotros en este viaje hacia una versión más saludable, equilibrada y plena de ti mismo.
+
 
 ### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
 Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
