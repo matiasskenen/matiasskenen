@@ -47,7 +47,7 @@
 ## 📝 Recent Projects
 
 
-### [ Using Dating Profiles to Predict Occupation: ](https://www.youtube.com/channel/UC3ZAPdiLq2Lpbdsly48MiOA)<br>
+### [ ### Descubre un Nuevo Tú: Transformación a través de Hábitos Saludables y Desarrollo Personal: ](https://www.youtube.com/channel/UC3ZAPdiLq2Lpbdsly48MiOA)<br>
 Explora cómo adoptar hábitos saludables y mejorar tu desarrollo personal con nuestro canal. Te ofrecemos consejos prácticos, inspiración y guías para transformar tu vida de manera positiva.
 
 
